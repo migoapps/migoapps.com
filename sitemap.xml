@@ -3,6 +3,61 @@
   <url>
     <loc>https://migoapps.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/flag-play-fun-with-flags-quiz/id639378154</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/states-quiz-state-flag-capital/id641427220</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/periodic-table-elements-quiz/id6448780485</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/superhero-trivia-quiz-game/id1531092496</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/name-the-animal-head-trivia/id1554479849</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/guess-the-shadow-pop-quiz-star/id1557204024</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/pairs-word-association-game/id1549350303</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/animal-kingdom-quiz-worldwide/id6469917344</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/shadow-mania-shape-trivia-quiz/id1565434701</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/word-candy/id6448739417</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://apps.apple.com/us/app/flags-of-the-world-geography/id1576041410</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
