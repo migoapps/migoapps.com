@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: Google-adstxt
 Disallow:
 
 Sitemap: https://migoapps.com/sitemap.xml
