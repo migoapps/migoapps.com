@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "campaigns": [
+    {
+      "id": "sudoku-launch-2026-10",
+      "enabled": false,
+      "appStoreID": "6810427396",
+      "phase": "live",
+      "startsAt": null,
+      "endsAt": null,
+      "variants": [
+        "PeriodicTableQuiz",
+        "ShadowMania",
+        "AnimalHeads",
+        "FlagPlay",
+        "StatesQuiz",
+        "AnimalKingdom",
+        "WorldFlags"
+      ],
+      "priority": 10,
+      "maxImpressions": 2,
+      "minimumIntervalHours": 24,
+      "localizations": {
+        "en": {
+          "title": "Sudoku No Ads: Killer & Jigsaw",
+          "message": "Explore our new Sudoku game on the App Store.",
+          "buttonTitle": "View on the App Store",
+          "dismissTitle": "Not now"
+        }
+      }
+    }
+  ]
+}
