@@ -19,6 +19,10 @@
         "WorldFlags"
       ],
       "priority": 10,
+      "artwork": {
+        "icon": "/promotions/artwork/sudoku/sudoku-icon-1024.png",
+        "hero": "/promotions/artwork/sudoku/sudoku-hero-1200x800.png"
+      },
       "maxImpressions": 2,
       "minimumIntervalHours": 24,
       "localizations": {
