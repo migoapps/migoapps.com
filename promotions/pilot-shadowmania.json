@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "campaigns": [
+    {
+      "id": "sudoku-launch-pilot-2026-10",
+      "enabled": true,
+      "appStoreID": "6810427396",
+      "phase": "live",
+      "startsAt": "2026-10-13T20:03:12Z",
+      "endsAt": "2026-10-27T20:08:12Z",
+      "variants": [
+        "ShadowMania"
+      ],
+      "priority": 10,
+      "artwork": {
+        "icon": "/promotions/artwork/sudoku/sudoku-icon-1024.png",
+        "hero": "/promotions/artwork/sudoku/sudoku-hero-1200x800.png"
+      },
+      "maxImpressions": 2,
+      "minimumIntervalHours": 24,
+      "localizations": {
+        "en": {
+          "title": "Sudoku No Ads: Killer & Jigsaw",
+          "message": "Explore our new Sudoku game on the App Store.",
+          "buttonTitle": "View on the App Store",
+          "dismissTitle": "Not now"
+        }
+      }
+    }
+  ]
+}
